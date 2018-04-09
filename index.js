@@ -1,4 +1,5 @@
 // write your code below!
+<<<<<<< HEAD
 function happyHolidays() {
   return "Happy holidays!"
 }
@@ -12,3 +13,8 @@ function holidayCountdown(holiday, days) {
   return "It's 20 days until Mother's Day!"
 }
 
+=======
+function happyHolidays(string) {
+  return string()
+}
+>>>>>>> ecae005182d3b42f8648ed2710f2b3b04bbace88
